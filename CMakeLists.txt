@@ -102,17 +102,6 @@ target_include_directories(ppgso PUBLIC
 # TARGETS
 #
 
-add_executable(testing
-		src/testing/main.cpp
-		src/testing/object.cpp
-		src/testing/cube.cpp
-		src/testing/camera.cpp
-		src/testing/scene.cpp
-		src/testing/mwindow.cpp
-		)
-target_link_libraries(testing ppgso shaders)
-install (TARGETS testing DESTINATION .)
-
 # Playground target
 add_executable(playground 
 		src/playground/object.cpp
