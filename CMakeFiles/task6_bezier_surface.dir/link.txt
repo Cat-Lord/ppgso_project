@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp  -rdynamic CMakeFiles/task6_bezier_surface.dir/src/task6_bezier_surface/task6_bezier_surface.cpp.o  -o task6_bezier_surface libppgso.a libshaders.a -lglfw /usr/lib/x86_64-linux-gnu/libGLEW.so -lGL -lGLU 

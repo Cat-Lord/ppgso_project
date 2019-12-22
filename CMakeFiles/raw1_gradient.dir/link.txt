@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp  -rdynamic CMakeFiles/raw1_gradient.dir/src/raw1_gradient/raw1_gradient.cpp.o  -o raw1_gradient libppgso.a -lglfw /usr/lib/x86_64-linux-gnu/libGLEW.so -lGL -lGLU 

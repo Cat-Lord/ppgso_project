@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/raw1_gradient/raw1_gradient.cpp
+iostream
+-
+fstream
+-
+

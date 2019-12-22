@@ -1,0 +1,182 @@
+[
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/testing.dir/src/testing/main.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/testing/main.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/testing/main.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/testing.dir/src/testing/object.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/testing/object.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/testing/object.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/testing.dir/src/testing/cube.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/testing/cube.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/testing/cube.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/testing.dir/src/testing/camera.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/testing/camera.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/testing/camera.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/testing.dir/src/testing/scene.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/testing/scene.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/testing/scene.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/testing.dir/src/testing/mwindow.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/testing/mwindow.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/testing/mwindow.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/playground.dir/src/playground/object.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/object.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/object.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/playground.dir/src/playground/main.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/main.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/main.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/playground.dir/src/playground/menu.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/menu.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/menu.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/playground.dir/src/playground/cube.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/cube.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/cube.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/playground.dir/src/playground/sphere.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/sphere.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/sphere.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/playground.dir/src/playground/lamppost.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/lamppost.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/lamppost.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/playground.dir/src/playground/star.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/star.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/star.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/playground.dir/src/playground/explosion.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/explosion.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/explosion.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/playground.dir/src/playground/quad.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/quad.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/quad.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/playground.dir/src/playground/player.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/player.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/player.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/playground.dir/src/playground/camera.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/camera.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/camera.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/playground.dir/src/playground/scene.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/scene.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/scene.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/playground.dir/src/playground/mwindow.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/mwindow.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/mwindow.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/playground.dir/src/playground/menuWindow.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/menuWindow.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/src/playground/menuWindow.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/ppgso.dir/ppgso/mesh.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso/mesh.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso/mesh.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/ppgso.dir/ppgso/tiny_obj_loader.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso/tiny_obj_loader.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso/tiny_obj_loader.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/ppgso.dir/ppgso/shader.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso/shader.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso/shader.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/ppgso.dir/ppgso/image.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso/image.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso/image.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/ppgso.dir/ppgso/image_bmp.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso/image_bmp.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso/image_bmp.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/ppgso.dir/ppgso/image_raw.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso/image_raw.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso/image_raw.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/ppgso.dir/ppgso/texture.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso/texture.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso/texture.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++  -DGLEW_STATIC -DGLM_FORCE_RADIANS -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/ppgso.dir/ppgso/window.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso/window.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/ppgso/window.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++   -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/shaders.dir/shaders/color_vert_glsl.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/shaders/color_vert_glsl.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/shaders/color_vert_glsl.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++   -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/shaders.dir/shaders/color_frag_glsl.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/shaders/color_frag_glsl.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/shaders/color_frag_glsl.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++   -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/shaders.dir/shaders/convolution_vert_glsl.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/shaders/convolution_vert_glsl.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/shaders/convolution_vert_glsl.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++   -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/shaders.dir/shaders/convolution_frag_glsl.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/shaders/convolution_frag_glsl.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/shaders/convolution_frag_glsl.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++   -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/shaders.dir/shaders/diffuse_vert_glsl.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/shaders/diffuse_vert_glsl.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/shaders/diffuse_vert_glsl.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++   -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/shaders.dir/shaders/diffuse_frag_glsl.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/shaders/diffuse_frag_glsl.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/shaders/diffuse_frag_glsl.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++   -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/shaders.dir/shaders/texture_vert_glsl.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/shaders/texture_vert_glsl.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/shaders/texture_vert_glsl.cpp"
+},
+{
+  "directory": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso",
+  "command": "/usr/bin/c++   -I/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso  -fopenmp   -std=gnu++14 -o CMakeFiles/shaders.dir/shaders/texture_frag_glsl.cpp.o -c /home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/shaders/texture_frag_glsl.cpp",
+  "file": "/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/shaders/texture_frag_glsl.cpp"
+}
+]

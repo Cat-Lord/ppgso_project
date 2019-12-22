@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp  -rdynamic CMakeFiles/gl1_gradient.dir/src/gl1_gradient/gl1_gradient.cpp.o  -o gl1_gradient libppgso.a libshaders.a -lglfw /usr/lib/x86_64-linux-gnu/libGLEW.so -lGL -lGLU 

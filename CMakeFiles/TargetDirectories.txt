@@ -1,0 +1,10 @@
+/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/CMakeFiles/install/strip.dir
+/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/CMakeFiles/install.dir
+/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/CMakeFiles/list_install_components.dir
+/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/CMakeFiles/testing.dir
+/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/CMakeFiles/install/local.dir
+/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/CMakeFiles/playground.dir
+/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/CMakeFiles/edit_cache.dir
+/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/CMakeFiles/ppgso.dir
+/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/CMakeFiles/shaders.dir
+/home/catlord/Documents/zimny_semester_2019-20/grafika/cvika/ppgso/CMakeFiles/rebuild_cache.dir

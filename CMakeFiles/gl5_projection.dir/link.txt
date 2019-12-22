@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp  -rdynamic CMakeFiles/gl5_projection.dir/src/gl5_projection/gl5_projection.cpp.o  -o gl5_projection libppgso.a libshaders.a -lglfw /usr/lib/x86_64-linux-gnu/libGLEW.so -lGL -lGLU 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp  -rdynamic CMakeFiles/task7_particles.dir/src/task7_particles/task7_particles.cpp.o  -o task7_particles libppgso.a libshaders.a -lglfw /usr/lib/x86_64-linux-gnu/libGLEW.so -lGL -lGLU 

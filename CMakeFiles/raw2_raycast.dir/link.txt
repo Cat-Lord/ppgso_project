@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp  -rdynamic CMakeFiles/raw2_raycast.dir/src/raw2_raycast/raw2_raycast.cpp.o  -o raw2_raycast libppgso.a -lglfw /usr/lib/x86_64-linux-gnu/libGLEW.so -lGL -lGLU 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp  -rdynamic CMakeFiles/raw4_raster.dir/src/raw4_raster/raw4_raster.cpp.o  -o raw4_raster libppgso.a -lglfw /usr/lib/x86_64-linux-gnu/libGLEW.so -lGL -lGLU 

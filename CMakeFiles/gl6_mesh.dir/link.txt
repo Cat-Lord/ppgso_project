@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp  -rdynamic CMakeFiles/gl6_mesh.dir/src/gl6_mesh/gl6_mesh.cpp.o  -o gl6_mesh libppgso.a libshaders.a -lglfw /usr/lib/x86_64-linux-gnu/libGLEW.so -lGL -lGLU 

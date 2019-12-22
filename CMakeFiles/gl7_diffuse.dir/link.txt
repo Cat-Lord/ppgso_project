@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp  -rdynamic CMakeFiles/gl7_diffuse.dir/src/gl7_diffuse/gl7_diffuse.cpp.o  -o gl7_diffuse libppgso.a libshaders.a -lglfw /usr/lib/x86_64-linux-gnu/libGLEW.so -lGL -lGLU 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp  -rdynamic CMakeFiles/task4_2dshapes.dir/src/task4_2dshapes/task4_2dshapes.cpp.o  -o task4_2dshapes libppgso.a libshaders.a -lglfw /usr/lib/x86_64-linux-gnu/libGLEW.so -lGL -lGLU 
